@@ -1,4 +1,4 @@
-students = ['test']
+students = []
 teacher = []
 running = True
 
